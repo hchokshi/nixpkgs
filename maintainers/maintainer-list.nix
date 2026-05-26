@@ -10626,6 +10626,11 @@
     githubId = 147689;
     name = "Hans-Christian Esperer";
   };
+  hchokshi = {
+    github = "hchokshi";
+    githubId = 10136407;
+    name = "Harsh Chokshi";
+  };
   hdhog = {
     name = "Serg Larchenko";
     email = "hdhog@hdhog.ru";
